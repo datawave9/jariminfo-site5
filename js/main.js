@@ -619,7 +619,7 @@ function renderFloatingCtaAndModal() {
           </div>
           <div class="qf-field">
             <label>연락처 <span>*</span></label>
-            <input type="tel" name="phone" required placeholder="010-0000-0000">
+            <input type="tel" name="phone" required placeholder="010-0000-0000 (- 생략 가능)">
           </div>
           <div class="qf-field">
             <label>관심 서비스</label>
