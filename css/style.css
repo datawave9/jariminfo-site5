@@ -982,7 +982,7 @@ body { padding-bottom: 0; }
 }
 
 /* -------------------- C. 신뢰 요소 마퀴 -------------------- */
-.trust-section .section-head { max-width: 640px; }
+.trust-section .section-head { max-width: 760px; }
 .trust-marquee {
   margin-top: 32px;
   overflow: hidden;
